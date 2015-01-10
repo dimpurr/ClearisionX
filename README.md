@@ -4,22 +4,22 @@ You can just fork this Repository, create a branch and name with the target blog
 
 ### Info
 
-Official Home Page: http://blog.dimpurr.com/clearision/ 
-Soucre Theme: https://github.com/dimpurr/Clearision
+* Official Home Page: http://blog.dimpurr.com/clearision/ 
+* Soucre Theme: https://github.com/dimpurr/Clearision
 
 <img src="http://blog.dimpurr.com/wp-content/themes/clearision/screenshot.png" title="Clearision" alt="Clearision" />
 
 ### Support Plan
 
-* ClearisionX for Hexo (@dimpurr) (Futured)
-* ClearisionX for Typecho (@dimpurr) (Futured)
-* ClearisionX for Ghost (@dimpurr) (Futured)
-* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf) (unofficial) (Finished)
+* ClearisionX for Hexo (@dimpurr) **Futured**
+* ClearisionX for Typecho (@dimpurr) **Futured**
+* ClearisionX for Ghost (@dimpurr) **Futured**
+* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf) **unofficial** **Finished**
 
 ### How to start
 
 You need replace all the `{{}}` tag to your blog platform's function. Just follow the description in the `<!-- -->` , and don't forget to remove the annotate after you finished it.
 
-You can take Clearision to all the blog platform but just left a link: `<a href="http://blog.dimpurr.com/clearision" title="Clearision">Clearision</a><br />`
+You can take Clearision to all the blog platform but just left a link: `<a href="http://blog.dimpurr.com/clearision" title="ClearisionX">ClearisionX</a>`
 
 Have fun!
