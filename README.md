@@ -11,10 +11,10 @@ You can just fork this Repository, create a branch and name with the target blog
 
 ### Support Plan
 
-* ClearisionX for Hexo (@dimpurr) **Futured**
-* ClearisionX for Typecho (@dimpurr) **Futured**
-* ClearisionX for Ghost (@dimpurr) **Futured**
-* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf) **unofficial** **Finished**
+* ClearisionX for Hexo (@dimpurr) *Futured*
+* ClearisionX for Typecho (@dimpurr) *Futured*
+* ClearisionX for Ghost (@dimpurr) *Futured*
+* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf) *unofficial* *Finished*
 
 ### How to start
 
@@ -23,3 +23,9 @@ You need replace all the `{{}}` tag to your blog platform's function. Just follo
 You can take Clearision to all the blog platform but just left a link: `<a href="http://blog.dimpurr.com/clearision" title="ClearisionX">ClearisionX</a>`
 
 Have fun!
+
+### Lincens
+
+You can only use GPLv3 if you need a lincens.
+
+[The GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html)
