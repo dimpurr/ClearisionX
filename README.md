@@ -7,8 +7,6 @@ You can just fork this Repository, create a branch and name with the target blog
 * Official Home Page: http://blog.dimpurr.com/clearision/ 
 * Soucre Theme: https://github.com/dimpurr/Clearision
 
-<img src="http://blog.dimpurr.com/wp-content/themes/clearision/screenshot.png" title="Clearision" alt="Clearision" />
-
 ### Support Plan
 
 * ClearisionX for Hexo (@dimpurr) *Futured*
@@ -29,3 +27,5 @@ Have fun!
 You can only use GPLv3 if you need a lincens.
 
 [The GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html)
+
+<img src="http://blog.dimpurr.com/wp-content/themes/clearision/screenshot.png" title="Clearision" alt="Clearision" />
