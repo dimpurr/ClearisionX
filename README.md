@@ -9,10 +9,11 @@ You can just fork this Repository, create a branch and name with the target blog
 
 ### Support Plan
 
-* ClearisionX for Hexo (@dimpurr) *Futured*
-* ClearisionX for Typecho (@dimpurr) *Futured*
-* ClearisionX for Ghost (@dimpurr) *Futured*
-* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf) *unofficial* *Finished*
+* [Clearision (for Pelican)](https://github.com/korepwx/pelican-themes/tree/master/clearision) (@korepwx ) *Finished*
+* ClearisionX for Hexo (@dimpurr ) *Futured*
+* ClearisionX for Typecho (@dimpurr ) *Futured*
+* ClearisionX for Ghost (@dimpurr ) *Futured*
+* [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf ) *unofficial* *Finished*
 
 ### How to start
 
