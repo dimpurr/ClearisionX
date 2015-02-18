@@ -1,0 +1,22 @@
+/* This is a StyleSheet for Duoshuo */
+/* Maybe you can delete the '!important' mark */
+
+#cmt #ds-thread { color: #FEFEFE !important; }
+#cmt #ds-thread .ds-gradient-bg, #cmt #ds-thread .ds-post-options, #cmt #ds-thread .ds-post-button, #cmt #ds-thread .ds-textarea-wrapper, #cmt #ds-thread #ds-reset .ds-post-toolbar, #cmt #ds-thread .ds-rounded-top, #ds-reset .ds-avatar, #ds-reset .ds-avatar img, #cmt #ds-thread .ds-post-self, #cmt #ds-thread #ds-bubble, #cmt #ds-thread .ds-rounded, #cmt #ds-thread #ds-reset .ds-tab .ds-current, #cmt #ds-thread .ds-meta { background: none !important; background-image: none; border: none !important; box-shadow: none !important; text-shadow: none !important; border-radius: 0 !important; color: #FEFEFE !important; }
+
+#cmt #ds-thread .ds-post-button, #cmt #ds-thread .ds-textarea-wrapper, #cmt #ds-thread .ds-avatar, #cmt #ds-thread .ds-like-thread-button { transition: all ease 0.2s; -webkit-transition: all ease 0.2s; -ms-transition: all ease 0.2s; -moz-transition: all ease 0.2s; }
+
+#cmt #ds-thread .ds-like-thread-button { padding: 5px !important; }
+
+#cmt #ds-thread .ds-children { margin-left: 76px !important; }
+
+#cmt #ds-thread .ds-post-button, #cmt #ds-thread .ds-like-thread-button { background: rgba(255,255,255,0.4) !important; color: #FEFEFE !important;}
+#cmt #ds-thread .ds-post-button:hover, #cmt #ds-thread .ds-like-thread-button:hover { background: rgba(255,255,255,0.5) !important; }
+#cmt #ds-thread .ds-post-button:active, #cmt #ds-thread .ds-like-thread-button:active { background: rgba(255,255,255,0.45) !important; }
+#cmt #ds-thread .ds-avatar { background: rgba(255,255,255,0.3) !important; padding: 3px !important; margin-right: 10px !important; margin-bottom: 12px !important; }
+#cmt #ds-thread .ds-avatar:hover { background: rgba(255,255,255,0.2) !important; }
+#cmt #ds-thread .ds-textarea-wrapper, #cmt #ds-thread .ds-post-options { background: rgba(255,255,255,0.1) !important; }
+#cmt #ds-thread .ds-post-options { padding: 1px !important; }
+
+#cmt #ds-thread .ds-like-tooltip, #cmt #ds-thread #ds-bubble { background: rgba(255,255,255,0.2) !important; padding: 10px 0 0 10px !important; color: #FEFEFE !important; }
+#cmt #ds-thread .ds-comment-header, #cmt #ds-thread .ds-comment-header a, #cmt #ds-thread .ds-like-tooltip a, #cmt #ds-thread #ds-bubble a { color: #FEFEFE !important; text-shadow: 0 1px 2px #000 !important; }
