@@ -9,6 +9,7 @@
 #cmt #ds-thread .ds-like-thread-button { padding: 5px !important; }
 
 #cmt #ds-thread .ds-children { margin-left: 76px !important; }
+#cmt #ds-thread p { color: #FEFEFE !important; } 
 
 #cmt #ds-thread .ds-post-button, #cmt #ds-thread .ds-like-thread-button { background: rgba(255,255,255,0.4) !important; color: #FEFEFE !important;}
 #cmt #ds-thread .ds-post-button:hover, #cmt #ds-thread .ds-like-thread-button:hover { background: rgba(255,255,255,0.5) !important; }
