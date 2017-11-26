@@ -14,6 +14,7 @@ You can just fork this Repository, create a branch and name with the target blog
 * ClearisionX for Typecho (@dimpurr ) *Futured*
 * ClearisionX for Ghost (@dimpurr ) *Futured*
 * [Cleairison-Ti](https://github.com/TrustyWolf/Clearision-Ti) for Typecho (@TrustyWolf ) *unofficial* *Finished*
+* [Cleairison](https://github.com/SilverBlogTheme/clearision) for SilverBlog (@qwe7002 ) *Finished*
 
 ### How to start
 
@@ -29,4 +30,4 @@ You can only use GPLv3 if you need a lincens.
 
 [The GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html)
 
-<img src="http://blog.dimpurr.com/wp-content/themes/clearision/screenshot.png" title="Clearision" alt="Clearision" />
+[![screenshot.jpg](https://i.loli.net/2017/11/26/5a1ad56760436.jpg)](https://i.loli.net/2017/11/26/5a1ad56760436.jpg)
